@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\androidEmail1\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="E:\androidEmail1\app\build\intermediates\pre-dexed\debug\additionnal_d564cb50b5e29dc44bc7d3e9818f80d04a7695ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidEmail1\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="E:\androidEmail1\app\build\intermediates\pre-dexed\debug\mail_ffcd3efb7efa7d6df863573d43314a8f5a54fb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidEmail1\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="E:\androidEmail1\app\build\intermediates\pre-dexed\debug\activation_3c0b6e6658fa3393aae5848505980d31671b9f91.jar" />
+    </item>
+
+</items>

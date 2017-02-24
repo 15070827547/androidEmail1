@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\androidEmail1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "E:\\androidEmail1\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "E:\\androidEmail1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listmenu.xml",
+        "source": "E:\\androidEmail1\\app\\src\\main\\res\\layout\\listmenu.xml"
+    },
+    {
+        "merged": "E:\\androidEmail1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\send_email.xml",
+        "source": "E:\\androidEmail1\\app\\src\\main\\res\\layout\\send_email.xml"
+    },
+    {
+        "merged": "E:\\androidEmail1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main2.xml",
+        "source": "E:\\androidEmail1\\app\\src\\main\\res\\layout\\main2.xml"
+    },
+    {
+        "merged": "E:\\androidEmail1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receive_send.xml",
+        "source": "E:\\androidEmail1\\app\\src\\main\\res\\layout\\receive_send.xml"
+    },
+    {
+        "merged": "E:\\androidEmail1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "E:\\androidEmail1\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "E:\\androidEmail1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second.xml",
+        "source": "E:\\androidEmail1\\app\\src\\main\\res\\layout\\second.xml"
+    },
+    {
+        "merged": "E:\\androidEmail1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\androidEmail1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
